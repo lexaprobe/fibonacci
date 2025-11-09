@@ -3,8 +3,9 @@
 Use one of four different algorithms to calculate the nth Fibonacci number.
 
 The [Fibonacci sequence](https://en.wikipedia.org/wiki/Fibonacci_sequence) is defined by the following recursive relation for an integer $n>2$
+
 $$
-F_n=F_{n-1}+F_{n-2}:F_0=0,\,F_1=1
+F_n=F_{n-1}+F_{n-2}\space :\space F_0=0,\space F_1=1
 $$
 
 
