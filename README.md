@@ -11,6 +11,8 @@ $$
 
 By calculating larger and larger Fibonacci numbers, this project is intended to portray just how unbelievably fast modern day computers are at doing math. Assuming, of course, the right method is used!
 
+Inspired by: [Computers are fast](https://www.youtube.com/watch?v=MbIiAr5dt24)
+
 ## Algorithms
 
 1. **The recursive approach**
